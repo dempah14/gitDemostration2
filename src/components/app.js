@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Josh from './josh'
+import Landon from './landon'
 
  class App extends Component {
   render() {
@@ -14,6 +15,7 @@ import Josh from './josh'
         <Josh/>
         <Josh/>
         <Josh/>
+        <Landon></Landon>
         <Josh/>
         <Josh/>
         <Josh/>
